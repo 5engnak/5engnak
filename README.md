@@ -1,5 +1,6 @@
 
-<img align="right" alt="Coding" width = "400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width = "400" src="![image](https://github.com/5engnak/5engnak/assets/133191549/b1e51194-3beb-41aa-b21d-7b6649d62bd8)
+">
 
 - 👋 Hi, I’m Vathanak
 - 👀 I’m interested in Mathematics ...
