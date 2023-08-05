@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @5engnak
 - 👀 I’m interested in Mathematics ...
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sengvathanak09@gamil.com
 
 <!---
