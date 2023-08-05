@@ -1,6 +1,5 @@
 
-<img align="right" alt="Coding" width = "400" src="![image](https://github.com/5engnak/5engnak/assets/133191549/b1e51194-3beb-41aa-b21d-7b6649d62bd8)
-">
+<img align="right" alt="Coding" width = "400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 👋 Hi, I’m Vathanak
 - 👀 I’m interested in Mathematics ...
