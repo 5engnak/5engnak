@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Vathanak
+<h1 align="center">Hi 👋, I'm Vathanak</h1>
+<h3 align="center">I am 3rd-year student majoring in data science . 
+<img align="right" alt="Coding" width = "400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+-👋 Hi, I’m Vathanak
 - 👀 I’m interested in Mathematics ...
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me sengvathanak09@gamil.com
