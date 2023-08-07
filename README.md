@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Vathanak
 - 👀 I’m interested in Mathematics ...
 - 🌱 I’m currently learning Data Analytics
-- 📫 How to reach me sengvathanak09@gamil.com
+- 📫 How to reach me sengvathanak09@gamail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
