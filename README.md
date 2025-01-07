@@ -16,9 +16,10 @@
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> 
   </a> 
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/RStudio-Logo.png" alt="RStudio" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/RStudio.png" alt="RStudio" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
   </a>
 </p>
+
