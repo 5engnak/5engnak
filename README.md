@@ -2,8 +2,8 @@
 <img align="right" alt="Coding" width = "400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
 - 👋 Hi, I’m Vathanak
-- 👀 I’m interested in Mathematics ...
-- 🌱 I’m currently learning Data Analytics
+- 👀 I’m interested in Natural Language Processing ...
+- 🌱 I’m currently learning Natural Language Processing
 - 📫 How to reach me sengvathanak09@gamail.com
 
 
